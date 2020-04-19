@@ -13,8 +13,6 @@
 
 *This is a Dice Game designed as a project while learning JavaScript*
 
-(Compatible to Larger Screen size eg: Laptop, Desktop etc.,) 
-
 
 
 
