@@ -9,7 +9,7 @@ GAME RULES:
 - The player can choose to 'Hold', which means that his CURRENT score gets added to his TOTAL score. After that, it's the next player's turn
 - The first player to reach 100 points on TOTAL score wins the game or one can choose the maximum winning score upto which they need the game to     continue
 
-HAPPY GAMING :slightly_smiling_face:	
+**HAPPY GAMING** :slightly_smiling_face:	
 
 
 
