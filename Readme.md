@@ -1,7 +1,6 @@
-## This is a Dice Game designed as a project while learning JavaScript
 
 
-GAME RULES:
+##GAME RULES:
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dices as many times as he whishes. Each result get added to his CURRENT score
@@ -10,6 +9,9 @@ GAME RULES:
 - The first player to reach 100 points on TOTAL score wins the game or one can choose the maximum winning score upto which they need the game to     continue
 
 **HAPPY GAMING** :slightly_smiling_face:	
+
+*This is a Dice Game designed as a project while learning JavaScript*
+
 
 
 
