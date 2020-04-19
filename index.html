@@ -2,8 +2,10 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="A Simple 2 Players Dice Game">
+
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,600" rel="stylesheet" type="text/css">
-        <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
         <link type="text/css" rel="stylesheet" href="style.css">
         
         <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
@@ -39,9 +41,9 @@
                 </div>
             </div>
             
-            <button class="btn-new"><i class="ion-ios-plus-outline"></i>New game</button>
-            <button class="btn-roll"><i class="ion-ios-loop"></i>Roll dice</button>
-            <button class="btn-hold"><i class="ion-ios-download-outline"></i>Hold</button>
+            <button class="btn-new"><ion-icon class="icons" name="add-circle-outline"></ion-icon>New game</button>
+            <button class="btn-roll"><ion-icon class ="icons" name="sync-outline"></ion-icon>Roll dice</button>
+            <button class="btn-hold"><ion-icon class ="icons" name="download-outline"></ion-icon>Hold</button>
             
             <input type="text" placeholder="Final score" class="final-score">
             
@@ -49,6 +51,8 @@
             <img src="dice-5.png" alt="Dice" class="dice" id="dice-2">
         </div>
         
+        
+        <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
         <script src="challenges.js"></script>
         
         <!-- Global site tag (gtag.js) - Google Analytics -->
