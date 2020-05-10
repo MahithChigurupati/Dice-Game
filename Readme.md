@@ -13,6 +13,11 @@
 
 *This is a Dice Game designed as a project while learning JavaScript*
 
+**Languages Used :** HTML 5,CSS 3, JavaScript
+
+**Tools Used :** Brackets
+
+*by Mahith Chigurupati*
 
 
 
